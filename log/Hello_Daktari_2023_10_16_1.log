@@ -1,0 +1,24 @@
+ : Session started for: [ {"session_ip":"::1"} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-16 17:59:58 : Last activity time: [ 1697468398 ]
+2023-10-16 17:59:58 : Trying Database connection...
+2023-10-16 17:59:58 : Database connection successfull
+2023-10-16 17:59:58 : Trying Database connection...
+2023-10-16 17:59:58 : Database connection successfull
+ : Session started for: [ {"session_ip":"::1","LAST_ACTIVITY":1697468398} ]
+ : User info: [ {"get_ip":"::1","get_os":"Windows 10","get_device":"Computer","get_browser":"Chrome"} ]
+ : Timezone set to: [  Africa/Nairobi ]
+2023-10-16 18:00:05 : Last activity time: [ 1697468405 ]
+2023-10-16 18:00:05 : Trying Database connection...
+2023-10-16 18:00:05 : Database connection successfull
+2023-10-16 18:00:05 : Counter, SQL: [ SELECT product_id FROM product WHERE product_status = 'active'  ]
+2023-10-16 18:00:05 : DB connection closed
+2023-10-16 18:00:05 : Count complete with count result: [ 2854 ]
+2023-10-16 18:00:05 : Trying Database connection...
+2023-10-16 18:00:05 : Database connection successfull
+2023-10-16 18:00:05 : Trying Database connection...
+2023-10-16 18:00:05 : Database connection successfull
+2023-10-16 18:00:05 : Counter, SQL: [ SELECT product_id FROM product WHERE product_status = 'active'  ]
+2023-10-16 18:00:05 : DB connection closed
+2023-10-16 18:00:05 : Count complete with count result: [ 2854 ]
